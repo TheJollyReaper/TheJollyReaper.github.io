@@ -1,0 +1,11 @@
+---
+title: this is a new post
+author: the great pickle
+date: '2020-06-11'
+slug: this-is-a-new-post
+categories: []
+tags: []
+description: Will this show up on the front page?
+---
+
+So if i start typing stuff here, whatever fits will automatically show on the front page?

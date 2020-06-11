@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Terminal</title>
+    <title>Hobo News Network</title>
     <link>/</link>
-    <description>Recent content on Terminal</description>
+    <description>Recent content on Hobo News Network</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>this is a new post</title>
+      <link>/post/this-is-a-new-post/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/this-is-a-new-post/</guid>
+      <description>So if i start typing stuff here, whatever fits will automatically show on the front page?</description>
+    </item>
     
     <item>
       <title>About</title>
