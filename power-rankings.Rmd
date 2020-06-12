@@ -1,0 +1,16 @@
+---
+title: "Power Rankings"
+draft: true
+---
+
+```{r, echo=FALSE, message=FALSE, warning = FALSE}
+source("../data/rankings_data.R")
+library(dplyr)
+library(GGally)
+
+
+ggparcoord(power_rankings, columns = 2:ncol(power_rankings), groupColumn = 1, scale = "globalminmax") +                                     theme(plot.background = element_rect(fill=rgb(34/255,31/255,41/255,1)), panel.background =                                       element_rect(fill=rgb(34/255,31/255,41/255,0.5)), axis.title = element_text(colour = "white"), axis.text = element_text(colour = "white")) 
+          
+          
+```
+
