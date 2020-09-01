@@ -6,39 +6,19 @@
     <description>Recent content in Posts on Hobo News Network</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>this is a new post</title>
-      <link>/post/this-is-a-new-post/</link>
-      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      <title>Hobo Draft Guide: QB</title>
+      <link>/post/hobo-draft-preview-qb/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/this-is-a-new-post/</guid>
-      <description>So if i start typing stuff here, whatever fits will automatically show on the front page?</description>
-    </item>
-    
-    <item>
-      <title>Hello Friend</title>
-      <link>/post/hello/</link>
-      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/post/hello/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.
- Fusce pharetra suscipit orci nec tempor.</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <guid>/post/hobo-draft-preview-qb/</guid>
+      <description>A Brief IntroductionWelcome to the new and improved Hobo News Network, your #1 source of unbiased Ray Rice’s Left Hook news! Check in throughout the season for draft guides, trade reviews, game previews, and much more.
+The 2020-2021 RRLH draft is tentatively scheduled for Sunday September 6 (according to Commissioner Jose).Over the next couple days we will be publishing guides for each position, to ensure you are adequately prepared and ready to dominate.</description>
     </item>
     
   </channel>
