@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rankings on Hobo News Network</title>
+    <link>/rankings/</link>
+    <description>Recent content in Rankings on Hobo News Network</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/rankings/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Week 1 Power Rankings</title>
+      <link>/rankings/week-1-power-rankings/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/rankings/week-1-power-rankings/</guid>
+      <description>#12: The One Inch WonderThe One Inch Wonder was a catastrophic failure in their week one matchup against the Hobos. That shouldn’t come as a surprise, given the F grade they received on their draft. Where to even start with this team. To begin with, the Hobos two starting RUNNING BACKS had more receiving yards than Inch’s starting wide receivers. Kelce and Mahomey were good as expected, but everyone else was a complete disaster.</description>
+    </item>
+    
+  </channel>
+</rss>

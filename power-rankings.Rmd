@@ -1,15 +1,52 @@
 ---
-title: "Power Rankings"
+title: "Power Rankings Week 1"
 draft: true
 ---
 
+# #12: The One Inch Wonder
+The One Inch Wonder was a catastrophic failure in their week one matchup against the Hobos. That shouldn’t come as a surprise, given the F grade they received on their draft. Where to even start with this team. To begin with, the Hobos two starting RUNNING BACKS had more receiving yards than Inch’s starting wide receivers. Kelce and Mahomey were good as expected, but everyone else was a complete disaster. The highest scoring starting receiver or running back on The One Inch Wonder was James white, with a whopping 6.5 points. As you may guess, The One Inch Wonder was massacred and put up the lowest score of the week with a sad 83 points. The future doesn’t look much better for Inch. Bell and Thomas are out for the foreseeable future (not that they were doing much before getting hurt anyways), Gibson, Boyd, and Johnson were duds, and there weren’t any promising signs from the bench. The One Inch Wonder is clearly the worst team in the league right now. 
+
+# #11: Team Hide and Zeke
+The other team to get an F grade on the draft also did not do much to prove us wrong. We said this team was too top heavy and lacked depth. What happened this week? Elliot and Jackson combined for almost half the teams points, where Evans sat on the bench and did next to nothing. Decaf stepped up with a solid 17 points, but the rest of the team was nowhere to be found. They somehow choked away a massive lead and allowed Macho Mel to come back and win with a single point. Embarrassing. Luckily for Hide and Zeke, they get an easy matchup against The One Inch Wonder this week to figure things out.
+
+# #10: Belchers Pistol Offense
+Belchers Pistol Offense is likely the first and only fantasy team in history to ever have THREE DOLPHINS RUNNING BACKS on the roster. Nothing good can come from this. Belcher has the single worst bench in the league and one of the worst running back situations in the league. Despite Miles Sanders being out last week, RB2 Boston Scott had a paltry six points. Sanders is likely back this week: six points will be a miracle ceiling for Boston Scott. Who else does this team have? Corey Clements… the guy behind Boston Scott on the depth chart. We don’t understand the obsession with Dolphin and Eagles running backs here, and it is definitely hurting the team. 
+
+# #9: Sarah Please Give Me a Win
+Josh Jacobs did his absolute best to try and carry this dead carcass of a team to victory, but his 33 points were completely wasted due to a combined TWO points from James Conner and Evan Engram. Conner’s absence may cost him touches down the line due to a great game by Benny Snell which definitely doesn’t bode well for this team. The Giants anemic offense likewise isn’t a good sign for Engram to pick things up any time soon. 
+
+# #8: Toaster Striegel
+Striegel drafted two Lions running backs, and they both got shown up by a 35 year old Adrian Peterson. Striegel’s starting running backs had a total of 7.5 points. Striegel’s opponent had 64 points from running backs. That is not going to get it done for Striegel. Striegel needs to get Chubb some help. 
+
+# #7: Malik Turners Playoff Catch %
+Malik Turners Playoff Catch % narrowly got past Sarah Please Give Me a Shorter Team Name, but at a big cost. Merlon Mack is gone for the season. Jamison Crowder got hurt and might be out this week. Golladay likely out this week. Sutton missed week 1 but will be back against the Hobos. Malik Turners season will be dependent on whether or not the team can stay health going forward. Luckily for them, going up against the Hobos is an automatic loss anyways, so the injury absences will not be of much consequence this week. 
+
+# #6: LeGarrette Cunt
+Week 1 was a mixed bag for LeGarrette Cunt. Let’s start out with what went wrong first: coaching decisions. Christian Kirk has no business being on a fantasy roster, especially on a starting lineup. Truly an awful decision. What makes it even worse was that Sammy Watkins was on the bench. Game 1 Sammy Watkins. What’s funny is that Game 1 Sammy Watkins was put on the starting lineup for week 2, another awful decision. Watkins only shows up for the first game of the season before disappearing. Fournette as expected, did nothing at all as he watched Ronald Jones take command of the starting job. On the positive side, Malcolm Brown and Darius Slayton were better than expected and should be solid contributors throughout the season. 
+
+# #5: Macho Mel
+Hobo News Network likes balance, and when it comes to balance, Macho Mel is second to only the Hyperhobos. The lowest scoring starter had 5 points, and the bench had some very promising performances in Dobbins, Campbell, and Benny Snell. Mel definitely looks solid, but is still a few moves away from truly looking like a contender. 
+
+# #4: Autocock Draftmongol
+Moneycock might have the steal of the draft taking David Johnson in the 3rd round who put up 17.5 points against the Chiefs. 
+
+David Johnson was the lowest scoring running back for Autodraft. The running back group on this roster is truly scary. But while Draftmoney may giveth a strong running core, Draftmoney has also taketh any semblance of a bench (outside Kareem Hunt) and a strong receiving core. You can expect Lockett to be a strong WR1, but through his first two games it looks like AJ Green won’t be returning to his previous production. We’re also not very confident in TY Hilton having any strong performances this year either. Draftmonger had zero bench points from receivers last week, so the team has to either start shopping around for more receivers, or blackmail Roger Goodell into reinstating Josh Gordan. 
+
+# #3: No Kap
+Just about everything went right for No Kap in week 1. Cam Newton looked strong, Melvin Gordon and Will Fuller didn’t disappoint, Calvin Ridley had a monster game, and Dalvin Cook justified his first-round draft position. The only cause for concern is Mixon’s mediocre showings in his first two games. 
+
+# #2: Gelato #51
+If week 1 is of any indication (it better be), the Seahawks run-run-pass-punt offense is dead, and 4th quarter Wilson will be cooking for the entire game from now on. Russell Wilson could easily be the #1 QB in fantasy this season. The receivers and running backs also looked strong. The only cause for concern for Gelato is tight end. Gronk was awful, and Irv Smith similarly did nothing. 
+
+# #1: The Undying, Unmatched, Unstoppable Hobolopolis Hyperhobos
+Even when Hobos have off days, they find ways to contribute and score points. Watson was awful, he scored some garbage time TD’s and ended with 20 points anyways. Barkley was handicapped by not having an offensive line, still got 9 points. Only three players managed to beat their projections, but the Hobos were the only team to not have a starter score less than 6 points. Through grit and toughness, the Hyperhobos blew out The One Inch Wonder with 28.5 points. The future only looks better for the Hobos. Moore, Kupp, Chark, and Kittle’s production can only go up from here. John Brown, Ronald Jones, and Raheem Mostert all solidified themselves as the top guy in their respective positions. Truly a good time to be a Hyperhobo. 
+
+
+
+
+
 ```{r, echo=FALSE, message=FALSE, warning = FALSE}
-source("../data/rankings_data.R")
-library(dplyr)
-library(GGally)
 
-
-ggparcoord(power_rankings, columns = 2:ncol(power_rankings), groupColumn = 1, scale = "globalminmax", showPoints = TRUE)                  + theme(plot.background = element_rect(fill=rgb(34/255,31/255,41/255,1)), panel.background =                                       element_rect(fill=rgb(34/255,31/255,41/255,0.5)), axis.title = element_text(colour = "white",                                    face="bold"), axis.text = element_text(colour = "white", size = 10, face="bold")) + geom_line(size=1) 
           
           
 ```

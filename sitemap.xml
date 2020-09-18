@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/</loc>
+    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/rankings/</loc>
+    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/rankings/week-1-power-rankings/</loc>
+    <lastmod>2020-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <lastmod>2020-08-31T00:00:00+00:00</lastmod>
   </url>
@@ -14,11 +29,6 @@
   
   <url>
     <loc>/post/hobo-draft-preview-qb/</loc>
-    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2020-08-31T00:00:00+00:00</lastmod>
   </url>
   
