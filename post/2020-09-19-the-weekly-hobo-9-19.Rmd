@@ -5,7 +5,7 @@ date: '2020-09-19'
 slug: the-weekly-hobo-9-19
 categories: []
 tags: []
-Description: 'Your go to week 1 post-summary'
+Description: 'Your go to 2 preview'
 ---
 <center>
 # Let the Floodgates Open

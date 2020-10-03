@@ -5,7 +5,7 @@ date: '2020-09-26'
 slug: the-weekly-hobo-9-26
 categories: []
 tags: []
-Description: 'Your go to week 2 post-summary'
+Description: 'Your go to week 3 preview'
 ---
 
 <center>
