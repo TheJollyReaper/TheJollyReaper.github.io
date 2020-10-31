@@ -6,10 +6,20 @@
     <description>Recent content on Hobo News Network</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Weekly Hobo 10/31</title>
+      <link>/post/the-weekly-hobo-10-31/</link>
+      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/the-weekly-hobo-10-31/</guid>
+      <description>Schedule AnalysisBrought to you by theffhub.comKey TakeawaysThe Hobo’s schedule is perfect, but only for the Hobo’s
+The Hyperhobo’s currently have a 6-1 record. If the Hyperhobo’s had to go against anyone else’s schedule up to this point in the season, their best possible record would 5-2 with either Hide and Zeke’s or Sarah’s schedule. That may make it seem like the Hobo’s have an easy schedule, but consider this: if every team had the Hyperhobo’s schedule, only Gelato #41 would match the Hobo’s 6-1 record.</description>
+    </item>
     
     <item>
       <title>The Weekly Hobo 10/24</title>
@@ -142,13 +152,22 @@ The 2020-2021 RRLH draft is tentatively scheduled for Sunday September 6 (accord
     
     <item>
       <title>Power Rankings Week 6</title>
+      <link>/week-7-rankings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/week-7-rankings/</guid>
+      <description>#12: Team Striegel ↑ 3Justin Tucker deserves better.
+#11: The One Inch Wonder ↓ 1 Despite several awful performances in the starting lineup, The One Inch Wonder pulled off a dominant victory over Striegel. Not everything looks good for Wonder though; Michael Thomas is once again hurt and will likely miss even more time.
+#10: Best Loser (previously known as Automongol Cocker Spaniel) ↑ 2 It has not been a good week for Best Loser, once known as Moneycock Autoloser.</description>
+    </item>
+    
+    <item>
+      <title>Power Rankings Week 8</title>
       <link>/power-rankings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/power-rankings/</guid>
-      <description>#12: Team Striegel ↑ 3Justin Tucker deserves better.
-#11: The One Inch Wonder ↓ 1 Despite several awful performances in the starting lineup, The One Inch Wonder pulled off a dominant victory over Striegel. Not everything looks good for Wonder though; Michael Thomas is once again hurt and will likely miss even more time.
-#10: Best Loser (previously known as Automongol Cocker Spaniel) ↑ 2 It has not been a good week for Best Loser, once known as Moneycock Autoloser.</description>
+      <description>#12: Team Striegel ═ Striegel wasted a career day from Davente Adams who scored 37.5 points, a 3rd of Striegel’s total points. Streigel’s failure stemmed from the combined 7 points from Beckham, Fant, and Peterson. In addition to that, Beckham is confirmed to be out for the season with an injury. And to pile on even more, Mark Ingram and Allen Robinson are also injured and unlikely to play this Sunday.</description>
     </item>
     
   </channel>
