@@ -1,0 +1,48 @@
+---
+title: "Power Rankings Week 8"
+draft: true
+---
+
+# #12: Team Striegel <span style="color: aqua;"> ═ </span>
+Striegel wasted a career day from Davente Adams who scored 37.5 points, a 3rd of Striegel’s total points. Streigel’s failure stemmed from the combined 7 points from Beckham, Fant, and Peterson. In addition to that, Beckham is confirmed to be out for the season with an injury. And to pile on even more, Mark Ingram and Allen Robinson are also injured and unlikely to play this Sunday. And you can’t forget that Nick Chubb is still on IR. Striegel gets props for being able to start a complete lineup at all, even if it’s complete trash. 
+
+# #11: The One Inch Wonder <span style="color: aqua;"> ═ </span>
+The One Inch Wonder lost as expected. Thomas continues to be out, and The One Inch Wonder continues to have the worst running back situation in the league. 
+
+# #10: Macho Mel <span style="color: red;"> ↑ 1 </span>
+Mel could not afford that loss to No Kap. Not only did they fall a game behind in the wild card race; they also lost a costly potential tiebreaker. Given their abysmal total points ranking and tiebreaking loses to Catch %, Sarah Please Take Me Back, and No Kap, Mel’s only hope for the playoffs is to go on a massive winning streak and take the spot by record. Tie’s will not be going in Mel’s favor. 
+
+# #9: Best Loser <span style="color: green;"> ↓ 1</span>
+Behind a historic game from Tyler Lockett, Best Loser helped the Hobos extend their division lead with an upset victory over Catch %. Despite the win, losing Chris Carson on top of Mostert still being on IR could prove costly. 
+
+# #8: Malik Turner’s Playoff Catch % <span style="color: red;"> ↑ 2 </span>
+With the loss against Best Loser, Malik Turner’s Playoff Catch % has fallen out of the playoff picture with No Kap taking over the #4 seed. Montgomery and Chark continue to disappoint and now Kenyan Drake is out for several weeks. Malik Turner’s roster is looking very thin after Kamara. 
+
+# #7: Sarah Please Take Bad Juju Away <span style="color: green;"> ↓ 1</span>
+Despite Josh Jacobs being completely shut down by the Tampa D, Sarah was given a cupcake victory against the lowest scoring team of the week. Still, there were positive signs of Juju not being a complete waste of a roster space the rest of the season. If he can maintain the number of targets he received in his last match, Sarah has a good shot of making a good late season surge. 
+
+# #6: LeGarrette Cunt <span style="color: green;"> ↓ 1</span>
+Cunt is now on a 3 game winning streak, the largest active streak in the league. Cunt’s going to be in a rough spot once Boston Scott is demoted back to the bench though. We also can’t forget about Antonio Brown coming in and taking the WR1 position from Godwin next week (assuming Godwin is even healthy enough to be in the game). 
+
+# #5: Gelato #46 <span style="color: red;"> ↑ 3</span>
+The once unbeatable Gelato has now lost two games in a row. Gelato has no one to blame for this last loss except their own roster mismanagement. Gelato fell asleep at the wheel and left Ertz in the lineup despite being marked out before the game started. As a result, Gelato lost by 2.5 points. Gelato’s division lead has been reduced to a single point, and with both Ertz and Aaron Jones being out once again this week, there is no margin of error left for this team. 
+
+# #4: Belchers Pistol Offense <span style="color: red;"> ↑ 1</span>
+Belchers Pistol Offense looked downright awful. They were looking good for a few weeks, and then they made the boneheaded decision to bring the Patriots defense back into the lineup and look what happens; they get the worst score of the week by over 20 points. Only three players in the starting lineup got into double digits. Even if Thielen and Gaskin had been active, this was such an absolute stinker of a game at all levels they would have been no help. Belchers Pistol Offense needs to regroup, bench the Patriots defense, and figure out how to move forward from here.
+
+# #3: Team Hide and Zeke <span style="color: green;"> ↓ 1</span>
+Justin Herbert and Jamaal Williams saved an otherwise horrible game for Team Hide and Zeke. Hide and Zeke improved to 4-3, but they’re still on the outside looking in for the playoffs. And of the teams competing for the wildcard spots, Hide and Zeke may easily be the worst team down the stretch. Hide and Zeke has been saved by rentals and has done absolutely nothing to find replacements. Mike Davis has been was given one more game against Atlanta, but like the previous two games he was out of steam and contributed next to nothing. Aaron Jones is out, giving Jamaal Williams a great matchup this week. But like Davis, he’s gone next week. To pile on even more, both Evans and Ezekiel Elliot have been terrible these past few weeks. Despite their continued wins, Hide and Zeke is not in a good place and is positioned to plummet down the rankings in these next few weeks.
+
+# #2: No Kap <span style="color: green;"> ↓ 3</span>
+No Kap makes a significant jump up the rankings with all the playoff teams (minus the Hobos) getting crushed this week. No Kap is definitely trending upwards right now. Melvin Gordon is back, Dalvin Cook (probably) is back, Kenyan Drake will be out for a few weeks, and Tom Brady is starting to catch fire with several easy defenses coming up. 
+
+# #1: Hobolopolis Hyperhobos <span style="color: aqua;"> ═ </span>
+Team Chaos claimed the lives of all other playoff teams this week, except for the invincible Hyperhobos. Despite the continued absence of Christian McCaffery, the Hobos have proven they don’t need high draft picks to win games. A monster resurgent game from James Rb1nson and a stellar return from Sterling Shepard propelled the Hobos to a victory over Striegel. The Hobos can rest easy knowing their playoff ticket is all practically guaranteed at this point. CMC, Antonio Brown, and Austin Hooper are all expected to return in the following weeks to reinforce the Hobo’s already formidable starting lineup. 
+
+
+```{r, echo=FALSE, message=FALSE, warning = FALSE}
+
+          
+          
+```
+
