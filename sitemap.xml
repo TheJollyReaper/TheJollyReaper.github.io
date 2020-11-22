@@ -4,12 +4,17 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-11-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2020-11-14T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/the-weekly-hobo-11-21/</loc>
+    <lastmod>2020-11-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -84,6 +89,10 @@
   
   <url>
     <loc>/week-1-rankings/</loc>
+  </url>
+  
+  <url>
+    <loc>/week-10-rankings/</loc>
   </url>
   
   <url>
