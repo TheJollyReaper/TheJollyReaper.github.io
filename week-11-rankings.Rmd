@@ -1,0 +1,49 @@
+---
+title: "Power Rankings Week 11"
+draft: true
+---
+
+# #12: Best Loser <span style="color: aqua;"> ═ </span>
+Still the best at losing. 
+
+# #11: The One Inch Wonder ><span style="color: red;"> ↑ 1</span>
+The One Inch Wonder is dead. No hope left. 12 total points for Michael Thomas over the course of the season and zero RB’s tends to do that. 
+
+# #10: Team Striegel <span style="color: green;"> ↓ 1</span
+Striegel had another solid game and actually held on for a victory this time. Nick Chubb had a solid return putting Striegel in a good position to be competitive the rest of the season.
+
+# #9: Belchers Pistol Offense <span style="color: red;"> ↑ 2</span>
+Belchers brief run in the middle of a season is a distant memory. Belcher had another loss and has one of the worst RB situations in the league. Joshua Kelley has lost his job to Ballage. Belchers Pistol Offense is also rostering 3 different Dolphin running backs, none of which is actually starting. This roster also has two Patriot RB’s; we all know how unreliable they are. Too many holes on this team. 
+
+# #8: Macho Mel <span style="color: red;"> ↑ 1</span>
+Macho Mel had a really, really bad loss against LeGarrette Cunt. The path to the playoffs for Mel will be significantly harder thanks to that loss and they now have zero room for error the rest of the season. Mel still has a solid roster though and should right in the middle of the playoff race. 
+
+# #7 part 1: Malik Turner’s Playoff Catch % <span style="color: green;"> ↓ 1</span>
+Catch % should be busy building a shrine to Alvin Kamara right now, because he single handily carried this team to victory. At the moment Catch % has the lead over Cunt in the playoff race due to point differential, but Catch % has not looked good at all in recent weeks. 
+
+# #7 part 2: LeGarrette Cunt <span style="color: green;"> ↓ 1</span> 
+LeGarrette Cunt just barely beat Mel with a measly 7 points. At the moment they are right on the cusp of getting into the playoffs, but something about this team just screams “pretender”. 
+
+# #5: Team Hide and Zeke <span style="color: red;"> ↑ 1</span>
+Another poor week for Hide and Zeke, and this time they didn’t have the benefit of facing the lowest scoring team of the week. RoJo’s surprise return to being the #1 back was balanced out by very underwhelming performances by Mike Davis, DK Metcalf, and a goose egg from Jared Cook. The Mike Davis magic that powers Hide and Zeke’s early season magic is clearly over, and unless Elliot finds a new O-line and QB, Hide and Zeke’s season may be over as well. 
+
+# #4: Sarah Please Take Me Back <span style="color: green;"> ↓ 1</span>
+Despite not starting a defense for some reason, Sarah Please Take Me back got a win and stays alive for another week. Sarah has looked good in recent weeks, which isn’t surprising considering JuJu’s stretch of finally living up to expectations. They did suffer a big loss with Drew Brees getting injured; how they handle that will have a big impact on the rest of their season. 
+
+# #3: Gelato #46 <span style="color: aqua;"> ═ </span>
+After weeks of doing their best to throw away their division lead, Gelato came back in a big way with the highest point total of the week. Both Hopkins and Diggs had some of their best games of the season, which more than made up for an awful outing for Russell Wilson. 
+
+# #2: No Kap <span style="color: aqua;"> ═ </span>
+Brady turned back the clock and powered Kap to a dominant win over Inch.
+
+# #1: Hobolopolis Hyperhobos <span style="color: aqua;"> ═ </span>
+Very positive outing for the Hobos. Both Wayne Gallman and Ballage looked very strong, giving the Hobos much needed RB depth to close out the season. Antonio Brown is also gradually getting back to full speed and is showing signs that he will be a major factor in the playoffs. 
+
+
+
+```{r, echo=FALSE, message=FALSE, warning = FALSE}
+
+          
+          
+```
+
