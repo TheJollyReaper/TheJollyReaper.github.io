@@ -1,6 +1,6 @@
 ---
 title: The Weekly Hobo 12/5
-author: ''
+author: Edward Edwardicus IV
 date: '2020-12-05'
 slug: the-weekly-hobo-12-5
 categories: []
